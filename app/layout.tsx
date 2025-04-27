@@ -6,9 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Terminal Portfolio | CS Student",
-    description: "A terminal-themed portfolio for a Computer Science student",
-    generator: "v0.dev",
+    title: "Terminal Portfolio | Lance Townsend",
+    description: "A terminal-based portfolio showcasing my skills and projects.",
 };
 
 export default function RootLayout({
